@@ -189,7 +189,7 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
-  //成功了吗
+  //返回游戏结果
   function checkForWin() {
     let matches = 0;
 
